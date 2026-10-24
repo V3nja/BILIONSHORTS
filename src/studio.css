@@ -1,0 +1,1 @@
+.clipEditor .clipActions{grid-column:1/-1;display:flex;gap:5px}.clipActions button{flex:1;min-height:25px;padding:3px 5px;background:#171a17;border:1px solid #30362a;color:#b9ce99;border-radius:4px;font-size:8px;white-space:nowrap}.clipActions button:hover{background:#222a1c}
